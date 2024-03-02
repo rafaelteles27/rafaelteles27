@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Fullstack Developer
 -------------------------
 
-I like to play video games, watching TV Shows,movies and reading books. I'm also passionate about creating Web Pages, using my skills as a Frontend Developer and Backend Developer and using Databases
+I like to play video games, watching TV Shows,movies and reading books. I'm also passionate about creating Web Pages, using my skills as a Frontend Developer, Backend Developer and using Databases
 
 *   🌍  I'm based in Braga, Portugal
 *   🖥️  See my portfolio at [My profile website](http://rafaelteles27.github.io/)
